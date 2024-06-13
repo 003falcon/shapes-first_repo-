@@ -1,4 +1,7 @@
 this is a circle text file
 //that is it is in the unstaged area
-commit kardiye 
-ab thoda modify kareg
+commit's done!wohoo,
+ab thoda modify karinge:)
+
+Filling up this circle-this marks the completion of the second feature,
+Let's merge this!!!
